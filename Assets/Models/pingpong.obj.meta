@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: fd66d52ecc89d924096aa76cf2ec9c14
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: pi.Mode.10_pingpongpa_pi.Mode.10_pingpongpa
+    100002: pi.Mode.1_pingpongpaM_pi.Mode.1_pingpongpaM
+    100004: pi.Mode.2_pingpongpaM_pi.Mode.2_pingpongpaM
+    100006: pi.Mode.3_pingpongpaM_pi.Mode.3_pingpongpaM
+    100008: pi.Mode.4_pingpongpaM_pi.Mode.4_pingpongpaM
+    100010: pi.Mode.5_pingpongpaM_pi.Mode.5_pingpongpaM
+    100012: pi.Mode.6_pingpongpaM_pi.Mode.6_pingpongpaM
+    100014: pi.Mode.7_pingpon_pi.Mode.7_pingpon
+    100016: pi.Mode.7_pingpongpaM_pi.Mode.7_pingpongpaM
+    100018: pi.Mode.8_pingpongpaM_pi.Mode.8_pingpongpaM
+    100020: pi.Mode.9_pingpongpaM_pi.Mode.9_pingpongpaM
+    100022: pi.Model6_pingpongpaM_pi.Model6_pingpongpaM
+    100024: //RootNode
+    400000: pi.Mode.10_pingpongpa_pi.Mode.10_pingpongpa
+    400002: pi.Mode.1_pingpongpaM_pi.Mode.1_pingpongpaM
+    400004: pi.Mode.2_pingpongpaM_pi.Mode.2_pingpongpaM
+    400006: pi.Mode.3_pingpongpaM_pi.Mode.3_pingpongpaM
+    400008: pi.Mode.4_pingpongpaM_pi.Mode.4_pingpongpaM
+    400010: pi.Mode.5_pingpongpaM_pi.Mode.5_pingpongpaM
+    400012: pi.Mode.6_pingpongpaM_pi.Mode.6_pingpongpaM
+    400014: pi.Mode.7_pingpon_pi.Mode.7_pingpon
+    400016: pi.Mode.7_pingpongpaM_pi.Mode.7_pingpongpaM
+    400018: pi.Mode.8_pingpongpaM_pi.Mode.8_pingpongpaM
+    400020: pi.Mode.9_pingpongpaM_pi.Mode.9_pingpongpaM
+    400022: pi.Model6_pingpongpaM_pi.Model6_pingpongpaM
+    400024: //RootNode
+    2300000: pi.Mode.10_pingpongpa_pi.Mode.10_pingpongpa
+    2300002: pi.Mode.1_pingpongpaM_pi.Mode.1_pingpongpaM
+    2300004: pi.Mode.2_pingpongpaM_pi.Mode.2_pingpongpaM
+    2300006: pi.Mode.3_pingpongpaM_pi.Mode.3_pingpongpaM
+    2300008: pi.Mode.4_pingpongpaM_pi.Mode.4_pingpongpaM
+    2300010: pi.Mode.5_pingpongpaM_pi.Mode.5_pingpongpaM
+    2300012: pi.Mode.6_pingpongpaM_pi.Mode.6_pingpongpaM
+    2300014: pi.Mode.7_pingpon_pi.Mode.7_pingpon
+    2300016: pi.Mode.7_pingpongpaM_pi.Mode.7_pingpongpaM
+    2300018: pi.Mode.8_pingpongpaM_pi.Mode.8_pingpongpaM
+    2300020: pi.Mode.9_pingpongpaM_pi.Mode.9_pingpongpaM
+    2300022: pi.Model6_pingpongpaM_pi.Model6_pingpongpaM
+    3300000: pi.Mode.10_pingpongpa_pi.Mode.10_pingpongpa
+    3300002: pi.Mode.1_pingpongpaM_pi.Mode.1_pingpongpaM
+    3300004: pi.Mode.2_pingpongpaM_pi.Mode.2_pingpongpaM
+    3300006: pi.Mode.3_pingpongpaM_pi.Mode.3_pingpongpaM
+    3300008: pi.Mode.4_pingpongpaM_pi.Mode.4_pingpongpaM
+    3300010: pi.Mode.5_pingpongpaM_pi.Mode.5_pingpongpaM
+    3300012: pi.Mode.6_pingpongpaM_pi.Mode.6_pingpongpaM
+    3300014: pi.Mode.7_pingpon_pi.Mode.7_pingpon
+    3300016: pi.Mode.7_pingpongpaM_pi.Mode.7_pingpongpaM
+    3300018: pi.Mode.8_pingpongpaM_pi.Mode.8_pingpongpaM
+    3300020: pi.Mode.9_pingpongpaM_pi.Mode.9_pingpongpaM
+    3300022: pi.Model6_pingpongpaM_pi.Model6_pingpongpaM
+    4300000: pi.Mode.10_pingpongpa_pi.Mode.10_pingpongpa
+    4300002: pi.Mode.1_pingpongpaM_pi.Mode.1_pingpongpaM
+    4300004: pi.Mode.2_pingpongpaM_pi.Mode.2_pingpongpaM
+    4300006: pi.Mode.3_pingpongpaM_pi.Mode.3_pingpongpaM
+    4300008: pi.Mode.4_pingpongpaM_pi.Mode.4_pingpongpaM
+    4300010: pi.Mode.5_pingpongpaM_pi.Mode.5_pingpongpaM
+    4300012: pi.Mode.6_pingpongpaM_pi.Mode.6_pingpongpaM
+    4300014: pi.Mode.7_pingpon_pi.Mode.7_pingpon
+    4300016: pi.Mode.7_pingpongpaM_pi.Mode.7_pingpongpaM
+    4300018: pi.Mode.8_pingpongpaM_pi.Mode.8_pingpongpaM
+    4300020: pi.Mode.9_pingpongpaM_pi.Mode.9_pingpongpaM
+    4300022: pi.Model6_pingpongpaM_pi.Model6_pingpongpaM
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
